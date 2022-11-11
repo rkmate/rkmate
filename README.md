@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rkmate
+- 👋 Hi, I’m Rithik
 - 👀 I’m interested in Data and Management
 - 🌱 I’m currently learning various applications with data
 - 💞️ I’m looking to collaborate on challenging projects
